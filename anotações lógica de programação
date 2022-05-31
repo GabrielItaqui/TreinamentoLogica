@@ -1,0 +1,32 @@
+<br>
+	Quebra de linha
+	
+<h1> </h1> 
+	Head (destaque, titulo)
+	
+<a href="url"> texto </a> 
+	linha usada para inserir links num texto.
+<meta charset="UTF-8">
+	Corrige erros de acentuação em códigos html.
+
+JAVASCRIPT
+<script>
+</script>
+	muda a linguagem do editor/leitor de HTML para JavaScript
+
+alert("texto");
+	faz com que um popup surja na tela com o texto.
+var texto = dado;
+	define uma variável (texto) e um retorno (dado)
+document.write
+	Escreve informações na tela como num código HTML.
+Math.Round 
+	Arredonda o valor.	
+	
+Entre "." é string
+Sem "." é numero/valor/entrada
+
+O JavaScript realiza operações matemáticas simples, contanto que bem expressas.
+var = define uma variável para ser impressa no uso do comando definido.
+	EX: var ano = 2022;
+		Todas as entradas ano no meu texto serão substituidas por 2022

@@ -1,0 +1,21 @@
+<script>
+	function pulaLinha() {
+	document.write("<br>");
+	document.write("<br>");
+	}
+	function mostra(frase) {
+	document.write(frase);
+	pulaLinha();
+	}
+	
+	var numero = parseInt(prompt("Digite o numero que deseja a tabuada."));
+	var multiplicador = 1
+	
+	while(multiplicador <= 10) {
+	
+	mostra (numero * multiplicador);
+	multiplicador++;
+	
+	}
+	
+</script>
